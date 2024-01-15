@@ -45,45 +45,4 @@ Start the Vite development server:
 The frontend will be accessible at http://localhost:5173
 
 
-project-root
-|-- server
-|   |-- config
-|   |   |-- config.json
-|   |-- controllers
-|   |   |-- productController.js
-|   |   |-- userController.js
-|   |-- models
-|   |   |-- index.js
-|   |   |-- product.js
-|   |   |-- user.js
-|   |-- routes
-|   |   |-- productRoutes.js
-|   |   |-- userRoutes.js
-|   |-- .gitignore
-|   |-- package.json
-|   |-- index.js
-|-- client
-|   |-- public
-|   |-- src
-|   |   |-- Components
-|   |   |   |-- AddProduct.jsx
-|   |   |   |-- EditProduct.jsx
-|   |   |   |-- Footer.jsx
-|   |   |   |-- Home.jsx
-|   |   |   |-- Login.jsx
-|   |   |   |-- Navbar.jsx
-|   |   |   |-- ProductDetails.jsx
-|   |   |   |-- Register.jsx
-|   |   |-- App.jsx
-|   |   |-- index.css
-|   |   |-- main.jsx
 
-|   |   |-- setupTests.js
-|   |-- .gitignore
-|   |-- package.json
-|   |-- vite.config.js
-|-- client
-|   |-- dist
-|   |-- index.html
-|-- .gitignore
-|-- package.json
